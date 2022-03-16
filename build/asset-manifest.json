@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3511b88f.css",
+    "main.js": "/static/js/main.55200076.js",
+    "static/media/orlando.png": "/static/media/orlando.161387c702085c6e5f32.png",
+    "static/media/los_vegas.png": "/static/media/los_vegas.1b27a8f7636a1817a65e.png",
+    "static/media/los_angeles.png": "/static/media/los_angeles.f4fb0f8fa022876a6055.png",
+    "static/media/miami.png": "/static/media/miami.bb448280943feae638e6.png",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.9e4584a4c7c489500dc4d7259accebde.svg",
+    "main.3511b88f.css.map": "/static/css/main.3511b88f.css.map",
+    "main.55200076.js.map": "/static/js/main.55200076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3511b88f.css",
+    "static/js/main.55200076.js"
+  ]
+}
