@@ -1,14 +1,26 @@
 {
   "files": {
-    "main.css": "/flight/static/css/main.3511b88f.css",
-    "main.js": "/flight/static/js/main.c3f7fc41.js",
-    "index.html": "/flight/index.html",
-    "static/media/arrow.svg": "/flight/static/media/arrow.9e4584a4c7c489500dc4d7259accebde.svg",
-    "main.3511b88f.css.map": "/flight/static/css/main.3511b88f.css.map",
-    "main.c3f7fc41.js.map": "/flight/static/js/main.c3f7fc41.js.map"
+    "main.css": "/static/css/main.d14c5ac9.css",
+    "main.js": "/static/js/main.ebacc562.js",
+    "static/media/Lato-Semibold.ttf": "/static/media/Lato-Semibold.18ea3062c6e779649b89.ttf",
+    "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.bb14dc80e8b5d860fe9c.ttf",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.8acc961684668b6e28e9.ttf",
+    "static/media/Lato-Medium.ttf": "/static/media/Lato-Medium.dabeb5a4d357db3dc75f.ttf",
+    "static/media/Lato-Semibold.woff": "/static/media/Lato-Semibold.c66465590541129e82d3.woff",
+    "static/media/Lato-Bold.woff": "/static/media/Lato-Bold.89b618086a797a8be0f4.woff",
+    "static/media/Lato-Regular.woff": "/static/media/Lato-Regular.1d2ca94dfba6f8d87cfd.woff",
+    "static/media/Lato-Medium.woff": "/static/media/Lato-Medium.08eb0932dc2145b3f6b2.woff",
+    "static/media/Lato-Bold.woff2": "/static/media/Lato-Bold.21b3848a32fce5b0f501.woff2",
+    "static/media/Lato-Semibold.woff2": "/static/media/Lato-Semibold.a6069540692725c247f1.woff2",
+    "static/media/Lato-Regular.woff2": "/static/media/Lato-Regular.75614cfcfedd509b1f7a.woff2",
+    "static/media/Lato-Medium.woff2": "/static/media/Lato-Medium.a071abba7e9bd90947f7.woff2",
+    "index.html": "/index.html",
+    "static/media/arrow.svg": "/static/media/arrow.9e4584a4c7c489500dc4d7259accebde.svg",
+    "main.d14c5ac9.css.map": "/static/css/main.d14c5ac9.css.map",
+    "main.ebacc562.js.map": "/static/js/main.ebacc562.js.map"
   },
   "entrypoints": [
-    "static/css/main.3511b88f.css",
-    "static/js/main.c3f7fc41.js"
+    "static/css/main.d14c5ac9.css",
+    "static/js/main.ebacc562.js"
   ]
 }
